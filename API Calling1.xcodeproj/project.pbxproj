@@ -11,7 +11,7 @@
 		4119B97D289071300058212E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4119B97C289071300058212E /* ContentView.swift */; };
 		4119B97F289071360058212E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4119B97E289071360058212E /* Assets.xcassets */; };
 		4119B982289071360058212E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4119B981289071360058212E /* Preview Assets.xcassets */; };
-		41AC4A3B28943C2E0020F88E /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41AC4A3A28943C2E0020F88E /* SwiftyJSON.swift */; };
+		41AC4A3D28946C9C0020F88E /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41AC4A3C28946C9C0020F88E /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,7 +20,7 @@
 		4119B97C289071300058212E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4119B97E289071360058212E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4119B981289071360058212E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		41AC4A3A28943C2E0020F88E /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SwiftyJSON.swift; path = ../../../../SwiftyJSON.swift; sourceTree = "<group>"; };
+		41AC4A3C28946C9C0020F88E /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,7 +56,7 @@
 				4119B97A289071300058212E /* API_Calling1App.swift */,
 				4119B97C289071300058212E /* ContentView.swift */,
 				4119B97E289071360058212E /* Assets.xcassets */,
-				41AC4A3A28943C2E0020F88E /* SwiftyJSON.swift */,
+				41AC4A3C28946C9C0020F88E /* SwiftyJSON.swift */,
 				4119B980289071360058212E /* Preview Content */,
 			);
 			path = "API Calling1";
@@ -140,7 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				41AC4A3B28943C2E0020F88E /* SwiftyJSON.swift in Sources */,
+				41AC4A3D28946C9C0020F88E /* SwiftyJSON.swift in Sources */,
 				4119B97D289071300058212E /* ContentView.swift in Sources */,
 				4119B97B289071300058212E /* API_Calling1App.swift in Sources */,
 			);
